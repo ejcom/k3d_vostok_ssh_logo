@@ -1,4 +1,10 @@
-
+```
+ _  _______ ____   __     _____  ____ _____ ___  _  __
+| |/ /___ /|  _ \  \ \   / / _ \/ ___|_   _/ _ \| |/ /
+| ' /  |_ \| | | |  \ \ / / | | \___ \ | || | | | ' / 
+| . \ ___) | |_| |   \ V /| |_| |___) || || |_| | . \ 
+|_|\_\____/|____/     \_/  \___/|____/ |_| \___/|_|\_\
+```
 (optional: you can keep the original system information like CPU load, IP, temperature or replace everything)
 
 ---
